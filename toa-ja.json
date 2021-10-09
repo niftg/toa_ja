@@ -1,0 +1,2624 @@
+{
+  "retrieved": "2021-10-09T18:43:49Z",
+  "version": "0.42.0",
+  "success": true,
+  "results": [
+    {
+      "id": "jEuQqvs2u",
+      "date": "2021-10-03T18:30:15.999Z",
+      "head": "jí",
+      "body": "代名詞：「私」（一人称代名詞）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633285815999,
+      "content": [
+        "ji",
+        "代名詞",
+        "私",
+        "一人称代名詞"
+      ]
+    },
+    {
+      "id": "GV23qz9gn",
+      "date": "2021-10-03T18:31:50.592Z",
+      "head": "da",
+      "body": "「断言する」という言語行為を表す（つまり平叙文を示す）語尾",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633285910592,
+      "content": [
+        "da",
+        "断言する",
+        "という言語行為を表す",
+        "つまり平叙文を示す",
+        "語尾"
+      ]
+    },
+    {
+      "id": "cmyS-5mos",
+      "date": "2021-10-03T19:20:59.300Z",
+      "head": "moq",
+      "body": "返事を要求する言語行為を表す語尾。日本語での「〜か？」の同義",
+      "user": "el",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633288859300,
+      "content": [
+        "moq",
+        "返事を要求する言語行為を表す語尾",
+        "日本語ての",
+        "か",
+        "の同義"
+      ]
+    },
+    {
+      "id": "jDadOexql",
+      "date": "2021-10-03T19:44:23.352Z",
+      "head": "ba",
+      "body": "行為の要求や希求や命令などを表現する言語行為を表す語尾。日本語の「〜なさい」と「〜たい」のように使えられる。",
+      "user": "el",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633290263352,
+      "content": [
+        "ba",
+        "行為の要求や希求や命令なとを表現する言語行為を表す語尾",
+        "日本語の",
+        "なさい",
+        "と",
+        "たい",
+        "のように使えられる"
+      ]
+    },
+    {
+      "id": "BMEWIxCoF",
+      "date": "2021-10-04T15:44:59.048Z",
+      "head": "kuq",
+      "body": "▯は▯（内容）と▯（聴衆）に言う",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633362299048,
+      "content": [
+        "kuq",
+        "は",
+        "内容",
+        "と",
+        "聴衆",
+        "に言う"
+      ]
+    },
+    {
+      "id": "tWL5LLmmz",
+      "date": "2021-10-04T15:50:28.943Z",
+      "head": "dua",
+      "body": "▯は▯がそうであると知っている",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633362628943,
+      "content": [
+        "dua",
+        "は",
+        "かそうてあると知っている"
+      ]
+    },
+    {
+      "id": "0ZiyyVsju",
+      "date": "2021-10-04T15:50:59.325Z",
+      "head": "tı",
+      "body": "▯が▯に居る／在る",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633362659325,
+      "content": [
+        "ti",
+        "か",
+        "に居る",
+        "在る"
+      ]
+    },
+    {
+      "id": "77uzkAsba",
+      "date": "2021-10-04T15:53:15.095Z",
+      "head": "rao",
+      "body": "▯は▯と同時に起こる",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633362795095,
+      "content": [
+        "rao",
+        "は",
+        "と同時に起こる"
+      ]
+    },
+    {
+      "id": "izJ5lUzfa",
+      "date": "2021-10-04T15:53:49.630Z",
+      "head": "tao",
+      "body": "▯は▯を行為／実行する",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633362829630,
+      "content": [
+        "tao",
+        "は",
+        "を行為",
+        "実行する"
+      ]
+    },
+    {
+      "id": "qwC6ou9e_",
+      "date": "2021-10-04T15:54:43.160Z",
+      "head": "gı",
+      "body": "▯は良い",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [
+        {
+          "date": "2021-10-04T20:14:09.869Z",
+          "user": "uakci",
+          "content": "【見出し語好い、善い、いい、よい"
+        }
+      ],
+      "score": 0,
+      "relevance": -1633362883160,
+      "content": [
+        "gi",
+        "は良い"
+      ]
+    },
+    {
+      "id": "FOE_5Pkrt",
+      "date": "2021-10-04T15:54:57.249Z",
+      "head": "huı",
+      "body": "▯は悪い",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633362897249,
+      "content": [
+        "hui",
+        "は悪い"
+      ]
+    },
+    {
+      "id": "9Jca_iNIJ",
+      "date": "2021-10-04T15:55:17.772Z",
+      "head": "bua",
+      "body": "▯は▯に住んでいる",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633362917772,
+      "content": [
+        "bua",
+        "は",
+        "に住んている"
+      ]
+    },
+    {
+      "id": "86YQpTMwJ",
+      "date": "2021-10-04T15:55:48.599Z",
+      "head": "chuq",
+      "body": "▯は食べる；▯は▯を食べる",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633362948599,
+      "content": [
+        "chuq",
+        "は食へる",
+        "は",
+        "を食へる"
+      ]
+    },
+    {
+      "id": "TTlIFFljZ",
+      "date": "2021-10-04T15:57:24.169Z",
+      "head": "hao",
+      "body": "▯はアレ",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363044169,
+      "content": [
+        "hao",
+        "はアレ"
+      ]
+    },
+    {
+      "id": "3t8cKEXng",
+      "date": "2021-10-04T16:00:33.403Z",
+      "head": "shı",
+      "body": "▯は一つである；▯は▯というプロパティに当てはまる事の一つである",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363233403,
+      "content": [
+        "shi",
+        "は一つてある",
+        "は",
+        "というフロハティに当てはまる事の一つてある"
+      ]
+    },
+    {
+      "id": "V9heT8lPf",
+      "date": "2021-10-04T16:00:56.846Z",
+      "head": "gu",
+      "body": "▯は二つである；▯は▯というプロパティに当てはまる事の二つである",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363256846,
+      "content": [
+        "gu",
+        "は二つてある",
+        "は",
+        "というフロハティに当てはまる事の二つてある"
+      ]
+    },
+    {
+      "id": "Oil1kGElM",
+      "date": "2021-10-04T16:02:37.854Z",
+      "head": "joe",
+      "body": "▯は▯というプロパティに当てはまるのが上手",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363357854,
+      "content": [
+        "joe",
+        "は",
+        "というフロハティに当てはまるのか上手"
+      ]
+    },
+    {
+      "id": "FCktE-yJQ",
+      "date": "2021-10-04T16:02:47.310Z",
+      "head": "raı",
+      "body": "▯は何かである",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363367310,
+      "content": [
+        "rai",
+        "は何かてある"
+      ]
+    },
+    {
+      "id": "02Kwpeo7m",
+      "date": "2021-10-04T16:02:59.569Z",
+      "head": "ocha",
+      "body": "▯は人間",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [
+        {
+          "date": "2021-10-05T14:38:59.501Z",
+          "user": "lynn",
+          "content": "ヒト"
+        }
+      ],
+      "score": 0,
+      "relevance": -1633363379569,
+      "content": [
+        "ocha",
+        "は人間"
+      ]
+    },
+    {
+      "id": "voyTmA3Yu",
+      "date": "2021-10-04T16:03:19.754Z",
+      "head": "poq",
+      "body": "▯は人",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363399754,
+      "content": [
+        "poq",
+        "は人"
+      ]
+    },
+    {
+      "id": "cYbM2-M4r",
+      "date": "2021-10-04T16:04:36.011Z",
+      "head": "mıu",
+      "body": "▯は▯がそうであると思う／考える／意見する",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363476011,
+      "content": [
+        "miu",
+        "は",
+        "かそうてあると思う",
+        "考える",
+        "意見する"
+      ]
+    },
+    {
+      "id": "TpI5Ont4m",
+      "date": "2021-10-04T16:05:37.684Z",
+      "head": "jıa",
+      "body": "▯が未来に起こる（未来形）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363537684,
+      "content": [
+        "jia",
+        "か未来に起こる",
+        "未来形"
+      ]
+    },
+    {
+      "id": "Hs7SMbUSo",
+      "date": "2021-10-04T16:06:36.773Z",
+      "head": "pu",
+      "body": "▯が起こった／そうであった（過去形）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363596773,
+      "content": [
+        "pu",
+        "か起こった",
+        "そうてあった",
+        "過去形"
+      ]
+    },
+    {
+      "id": "40IEvaEB0",
+      "date": "2021-10-04T16:07:35.820Z",
+      "head": "hıo",
+      "body": "▯は▯に挨拶する",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363655820,
+      "content": [
+        "hio",
+        "は",
+        "に挨拶する"
+      ]
+    },
+    {
+      "id": "M_wa0kmNE",
+      "date": "2021-10-04T16:08:26.239Z",
+      "head": "sao",
+      "body": "▯は大きい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363706239,
+      "content": [
+        "sao",
+        "は大きい"
+      ]
+    },
+    {
+      "id": "onFPJl0Dx",
+      "date": "2021-10-04T16:08:35.046Z",
+      "head": "nuı",
+      "body": "▯は小さい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363715046,
+      "content": [
+        "nui",
+        "は小さい"
+      ]
+    },
+    {
+      "id": "llndpBR9A",
+      "date": "2021-10-04T16:08:50.448Z",
+      "head": "paq",
+      "body": "▯は▯の部分",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363730448,
+      "content": [
+        "paq",
+        "は",
+        "の部分"
+      ]
+    },
+    {
+      "id": "rKMSV671Z",
+      "date": "2021-10-04T16:10:55.165Z",
+      "head": "gaı",
+      "body": "▯は▯を感知する／感じ取る",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363855165,
+      "content": [
+        "gai",
+        "は",
+        "を感知する",
+        "感し取る"
+      ]
+    },
+    {
+      "id": "8jrgjZS9J",
+      "date": "2021-10-04T16:11:07.149Z",
+      "head": "kaqgaı",
+      "body": "▯は▯を見る",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363867149,
+      "content": [
+        "kaqgai",
+        "は",
+        "を見る"
+      ]
+    },
+    {
+      "id": "6wUR-WYDn",
+      "date": "2021-10-04T16:11:52.961Z",
+      "head": "kuaq",
+      "body": "▯は、自分が▯というプロパティに当てはまると表す",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363912961,
+      "content": [
+        "kuaq",
+        "は",
+        "自分か",
+        "というフロハティに当てはまると表す"
+      ]
+    },
+    {
+      "id": "eH3bCCg09",
+      "date": "2021-10-04T16:12:07.811Z",
+      "head": "naq",
+      "body": "▯は男性",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363927811,
+      "content": [
+        "naq",
+        "は男性"
+      ]
+    },
+    {
+      "id": "2EhOfdvxM",
+      "date": "2021-10-04T16:12:42.999Z",
+      "head": "lıq",
+      "body": "▯は女性",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363962999,
+      "content": [
+        "liq",
+        "は女性"
+      ]
+    },
+    {
+      "id": "DDZMyjtR6",
+      "date": "2021-10-04T16:13:11.931Z",
+      "head": "naı",
+      "body": "▯は今起こる／そうである",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633363991931,
+      "content": [
+        "nai",
+        "は今起こる",
+        "そうてある"
+      ]
+    },
+    {
+      "id": "EyesSvx6a",
+      "date": "2021-10-04T16:13:42.609Z",
+      "head": "súq",
+      "body": "代名詞：「あなた」（二人称代名詞）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364022609,
+      "content": [
+        "suq",
+        "代名詞",
+        "あなた",
+        "二人称代名詞"
+      ]
+    },
+    {
+      "id": "v8AjZkxV-",
+      "date": "2021-10-04T16:14:26.774Z",
+      "head": "nháo",
+      "body": "代名詞：「あの人」（三人称代名詞）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364066774,
+      "content": [
+        "nhao",
+        "代名詞",
+        "あの人",
+        "三人称代名詞"
+      ]
+    },
+    {
+      "id": "IHNXD0Gp9",
+      "date": "2021-10-04T16:15:11.168Z",
+      "head": "kua",
+      "body": "▯は部屋／室",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364111168,
+      "content": [
+        "kua",
+        "は部屋",
+        "室"
+      ]
+    },
+    {
+      "id": "CfaGGKoiO",
+      "date": "2021-10-04T16:15:58.252Z",
+      "head": "bue",
+      "body": "▯は▯の巣／家／ねぐら",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364158252,
+      "content": [
+        "bue",
+        "は",
+        "の巣",
+        "家",
+        "ねくら"
+      ]
+    },
+    {
+      "id": "8S-PPMjuB",
+      "date": "2021-10-04T16:16:17.302Z",
+      "head": "jaı",
+      "body": "▯は嬉しい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364177302,
+      "content": [
+        "jai",
+        "は嬉しい"
+      ]
+    },
+    {
+      "id": "gCiNr_rRT",
+      "date": "2021-10-04T16:18:11.907Z",
+      "head": "meo",
+      "body": "▯は悲しい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364291907,
+      "content": [
+        "meo",
+        "は悲しい"
+      ]
+    },
+    {
+      "id": "6xuQA3eB0",
+      "date": "2021-10-04T16:18:57.834Z",
+      "head": "doaq",
+      "body": "▯は村／都市／集落",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364337834,
+      "content": [
+        "doaq",
+        "は村",
+        "都市",
+        "集落"
+      ]
+    },
+    {
+      "id": "YIvtzfyFJ",
+      "date": "2021-10-04T16:19:37.867Z",
+      "head": "jıo",
+      "body": "▯は建物",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364377867,
+      "content": [
+        "jio",
+        "は建物"
+      ]
+    },
+    {
+      "id": "i4tRGr6nL",
+      "date": "2021-10-04T16:21:06.819Z",
+      "head": "bu",
+      "body": "▯はそうでない／偽；▯は▯というプロパティに当てはまらない",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364466819,
+      "content": [
+        "bu",
+        "はそうてない",
+        "偽",
+        "は",
+        "というフロハティに当てはまらない"
+      ]
+    },
+    {
+      "id": "j8HZ8VqvT",
+      "date": "2021-10-04T16:23:01.303Z",
+      "head": "geo",
+      "body": "▯は古い／お年寄り／老人",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364581303,
+      "content": [
+        "geo",
+        "は古い",
+        "お年寄り",
+        "老人"
+      ]
+    },
+    {
+      "id": "cNcyqRUjj",
+      "date": "2021-10-04T16:23:33.772Z",
+      "head": "nıo",
+      "body": "▯は若い／幼い",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364613772,
+      "content": [
+        "nio",
+        "は若い",
+        "幼い"
+      ]
+    },
+    {
+      "id": "grTi0qbHu",
+      "date": "2021-10-04T16:24:39.456Z",
+      "head": "keo",
+      "body": "文章接続詞：「しかし」",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364679456,
+      "content": [
+        "keo",
+        "文章接続詞",
+        "しかし"
+      ]
+    },
+    {
+      "id": "4t243ayD3",
+      "date": "2021-10-04T16:24:55.622Z",
+      "head": "ru",
+      "body": "接続詞：「と、及び」",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364695622,
+      "content": [
+        "ru",
+        "接続詞",
+        "と",
+        "及ひ"
+      ]
+    },
+    {
+      "id": "lStRDgLT0",
+      "date": "2021-10-04T16:26:34.853Z",
+      "head": "ra",
+      "body": "接続詞：「や、か」（論理和、OR）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364794853,
+      "content": [
+        "ra",
+        "接続詞",
+        "や",
+        "か",
+        "論理和",
+        "or"
+      ]
+    },
+    {
+      "id": "yrzGUDGFw",
+      "date": "2021-10-04T16:27:16.258Z",
+      "head": "ro",
+      "body": "接続詞：排他的論理和、XOR",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364836258,
+      "content": [
+        "ro",
+        "接続詞",
+        "排他的論理和",
+        "xor"
+      ]
+    },
+    {
+      "id": "VyVgDVPCO",
+      "date": "2021-10-04T16:27:34.773Z",
+      "head": "jıao",
+      "body": "▯は神",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364854773,
+      "content": [
+        "jiao",
+        "は神"
+      ]
+    },
+    {
+      "id": "XLiukxDce",
+      "date": "2021-10-04T16:28:47.631Z",
+      "head": "de",
+      "body": "▯は綺麗／美しい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364927631,
+      "content": [
+        "de",
+        "は綺麗",
+        "美しい"
+      ]
+    },
+    {
+      "id": "PWpD8QNMg",
+      "date": "2021-10-04T16:28:58.193Z",
+      "head": "hıu",
+      "body": "▯は川",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364938193,
+      "content": [
+        "hiu",
+        "は川"
+      ]
+    },
+    {
+      "id": "2ZcWbrUlH",
+      "date": "2021-10-04T16:29:14.253Z",
+      "head": "fa",
+      "body": "▯は▯に▯から行く",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364954253,
+      "content": [
+        "fa",
+        "は",
+        "に",
+        "から行く"
+      ]
+    },
+    {
+      "id": "Roo-xGajU",
+      "date": "2021-10-04T16:29:41.681Z",
+      "head": "zu",
+      "body": "▯は言語",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633364981681,
+      "content": [
+        "zu",
+        "は言語"
+      ]
+    },
+    {
+      "id": "i0t3QU1rj",
+      "date": "2021-10-04T16:30:31.504Z",
+      "head": "toaq",
+      "body": "▯はトアン語らしい／トアン語と関係ある",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633365031504,
+      "content": [
+        "toaq",
+        "はトアン語らしい",
+        "トアン語と関係ある"
+      ]
+    },
+    {
+      "id": "GyFZkc2rW",
+      "date": "2021-10-04T16:30:47.302Z",
+      "head": "toaqzu",
+      "body": "▯はトアン語",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633365047302,
+      "content": [
+        "toaqzu",
+        "はトアン語"
+      ]
+    },
+    {
+      "id": "AaE42TwQm",
+      "date": "2021-10-04T19:17:53.771Z",
+      "head": "sa",
+      "body": "限定詞：「ある…」（存在記号、∃）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633375073771,
+      "content": [
+        "sa",
+        "限定詞",
+        "ある",
+        "存在記号"
+      ]
+    },
+    {
+      "id": "clKDzZ-hs",
+      "date": "2021-10-04T19:19:26.975Z",
+      "head": "tu",
+      "body": "限定詞：「あらゆる…」（全称記号、∀）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633375166975,
+      "content": [
+        "tu",
+        "限定詞",
+        "あらゆる",
+        "全称記号"
+      ]
+    },
+    {
+      "id": "YR5BR-BNA",
+      "date": "2021-10-04T19:22:28.552Z",
+      "head": "tuq",
+      "body": "限定詞：「全ての…」（全体記号、McKayでのΛ∃）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [
+        {
+          "date": "2021-10-04T19:39:04.220Z",
+          "user": "uakci",
+          "content": "この量化系(SA)助詞とは、補語の述語動詞句を『最多数の(複数論理的)一定値』(*maximal reference*)に変化するもの。"
+        },
+        {
+          "date": "2021-10-04T19:50:50.826Z",
+          "user": "uakci",
+          "content": "それからこういうmaximal referenceが求まれない可能性がある訳である。例えば「**tuq shỉ rủa**」の「**shı rủa**『一輪の花である』」という述語動詞句は、「非分配法則的」（*nondistributive*)なものなので、「一輪だけで全ての花」のことが集めれることが阻止されてしまうのである。"
+        }
+      ],
+      "score": 0,
+      "relevance": -1633375348552,
+      "content": [
+        "tuq",
+        "限定詞",
+        "全ての",
+        "全体記号",
+        "mckayてのλ"
+      ]
+    },
+    {
+      "id": "Ite5xh-3v",
+      "date": "2021-10-04T19:28:20.851Z",
+      "head": "ke",
+      "body": "限定詞：「the …」（定冠詞／確定記述）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633375700851,
+      "content": [
+        "ke",
+        "限定詞",
+        "the",
+        "定冠詞",
+        "確定記述"
+      ]
+    },
+    {
+      "id": "RFmiaHTKQ",
+      "date": "2021-10-04T19:36:21.671Z",
+      "head": "mı",
+      "body": "名動詞：「〇〇と名付けられたもの」（次の句を名前にする、例：mí Tỏadua = トアデュア）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633376181671,
+      "content": [
+        "mi",
+        "名動詞",
+        "と名付けられたもの",
+        "次の句を名前にする",
+        "例",
+        "mi",
+        "toadua",
+        "トアテュア"
+      ]
+    },
+    {
+      "id": "XT_GBpVO-",
+      "date": "2021-10-04T19:38:54.338Z",
+      "head": "mıru",
+      "body": "名動詞：「〇〇さん」（次の句を敬称のように人名にする、例：míru Tảnaka = 田中さん）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633376334338,
+      "content": [
+        "miru",
+        "名動詞",
+        "さん",
+        "次の句を敬称のように人名にする",
+        "例",
+        "miru",
+        "tanaka",
+        "田中さん"
+      ]
+    },
+    {
+      "id": "5lPMnJZ-I",
+      "date": "2021-10-04T19:49:11.233Z",
+      "head": "máq",
+      "body": "代名詞：「それ」；有生性クラス II（無生物）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633376951233,
+      "content": [
+        "maq",
+        "代名詞",
+        "それ",
+        "有生性クラス",
+        "ii",
+        "無生物",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "SdXu4e5g9",
+      "date": "2021-10-04T19:49:33.081Z",
+      "head": "hó",
+      "body": "代名詞：「その人、その動物」；有生性クラス I（有生／人／動物）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633376973081,
+      "content": [
+        "ho",
+        "代名詞",
+        "その人",
+        "その動物",
+        "有生性クラス",
+        "i",
+        "有生",
+        "人",
+        "動物",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "vw0mWvk-W",
+      "date": "2021-10-04T19:50:46.233Z",
+      "head": "hóq",
+      "body": "代名詞：「それ」；有生性クラス III（抽象概念）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633377046233,
+      "content": [
+        "hoq",
+        "代名詞",
+        "それ",
+        "有生性クラス",
+        "iii",
+        "抽象概念",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "1H-YG0GpK",
+      "date": "2021-10-04T19:51:41.651Z",
+      "head": "tá",
+      "body": "代名詞：「それ」；有生性クラス IV（形容詞）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633377101651,
+      "content": [
+        "ta",
+        "代名詞",
+        "それ",
+        "有生性クラス",
+        "iv",
+        "形容詞",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "TIOok8ffu",
+      "date": "2021-10-04T19:55:07.215Z",
+      "head": "róu",
+      "body": "代名詞：「それ」；有生性クラス V（第五声調節、例「dê … cy」）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633377307215,
+      "content": [
+        "rou",
+        "代名詞",
+        "それ",
+        "有生性クラス",
+        "v",
+        "第五声調節",
+        "例",
+        "de",
+        "cy",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "5LBLF768f",
+      "date": "2021-10-04T19:56:01.129Z",
+      "head": "kúy",
+      "body": "代名詞：「それ」；有生性クラス VI（LU節）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633377361129,
+      "content": [
+        "kuy",
+        "代名詞",
+        "それ",
+        "有生性クラス",
+        "vi",
+        "lu節",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "sBhCbxEFF",
+      "date": "2021-10-04T19:56:33.655Z",
+      "head": "zé",
+      "body": "代名詞：「それ」；有生性クラス VII（PO句）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633377393655,
+      "content": [
+        "ze",
+        "代名詞",
+        "それ",
+        "有生性クラス",
+        "vii",
+        "po句",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "jx6UNGbmR",
+      "date": "2021-10-04T19:57:08.719Z",
+      "head": "fúy",
+      "body": "代名詞：「それ」；有生性クラス VIII（人称代名詞）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633377428719,
+      "content": [
+        "fuy",
+        "代名詞",
+        "それ",
+        "有生性クラス",
+        "viii",
+        "人称代名詞",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "bz9Hd4HgR",
+      "date": "2021-10-04T19:58:05.922Z",
+      "head": "bóu",
+      "body": "代名詞：「それ」；有生性クラス IX（指示代名詞）の限定詞句を参照する束縛代名詞",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633377485922,
+      "content": [
+        "bou",
+        "代名詞",
+        "それ",
+        "有生性クラス",
+        "ix",
+        "指示代名詞",
+        "の限定詞句を参照する束縛代名詞"
+      ]
+    },
+    {
+      "id": "agKenf1lz",
+      "date": "2021-10-05T08:37:28.404Z",
+      "head": "choq",
+      "body": "▯は▯を▯に使う",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [
+        {
+          "date": "2021-10-05T09:39:09.401Z",
+          "user": "uakci",
+          "content": "【見出し語】つかう、利用（りよう）、使用（しよう）、用いる（もちいる）"
+        }
+      ],
+      "score": 0,
+      "relevance": -1633423048404,
+      "content": [
+        "choq",
+        "は",
+        "を",
+        "に使う"
+      ]
+    },
+    {
+      "id": "LWKD8VGsJ",
+      "date": "2021-10-05T13:46:50.119Z",
+      "head": "bı",
+      "body": "終了詞：「は」、題目部(prenex/topic)の終了",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633441610119,
+      "content": [
+        "bi",
+        "終了詞",
+        "は",
+        "題目部",
+        "prenex",
+        "topic",
+        "の終了"
+      ]
+    },
+    {
+      "id": "9U-JsvAF9",
+      "date": "2021-10-05T13:58:34.597Z",
+      "head": "ja",
+      "body": "限定詞：「λ」、ラムダ抽象の束縛変数：「chûq ja pỏq ja rảı」＝「λP. λR. chuq(P, R)」",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633442314597,
+      "content": [
+        "ja",
+        "限定詞",
+        "λ",
+        "ラムタ抽象の束縛変数",
+        "chuq",
+        "ja",
+        "poq",
+        "ja",
+        "rai",
+        "λp",
+        "λr",
+        "chuq",
+        "p",
+        "r"
+      ]
+    },
+    {
+      "id": "cOBd-bk5z",
+      "date": "2021-10-05T14:06:31.305Z",
+      "head": "sıa",
+      "body": "限定詞：「一つも…ない」（存在の否定、￢∃、∄）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633442791305,
+      "content": [
+        "sia",
+        "限定詞",
+        "一つも",
+        "ない",
+        "存在の否定"
+      ]
+    },
+    {
+      "id": "xOhoJ0zmS",
+      "date": "2021-10-05T14:09:38.723Z",
+      "head": "hu",
+      "body": "呼びかけ助詞：「〜よ」、次の名詞句を聴き手として特定しながら呼びかける",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633442978723,
+      "content": [
+        "hu",
+        "呼ひかけ助詞",
+        "よ",
+        "次の名詞句を聴き手として特定しなから呼ひかける"
+      ]
+    },
+    {
+      "id": "abv9cjntu",
+      "date": "2021-10-05T14:10:51.217Z",
+      "head": "muaq",
+      "body": "▯は死んでいる",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443051217,
+      "content": [
+        "muaq",
+        "は死んている"
+      ]
+    },
+    {
+      "id": "CfM1LVRwj",
+      "date": "2021-10-05T14:11:50.781Z",
+      "head": "muaqsho",
+      "body": "▯は死ぬ／亡くなる",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443110781,
+      "content": [
+        "muaqsho",
+        "は死ぬ",
+        "亡くなる"
+      ]
+    },
+    {
+      "id": "bRXR_rhSj",
+      "date": "2021-10-05T14:12:59.154Z",
+      "head": "geq",
+      "body": "▯は▯と会う",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443179154,
+      "content": [
+        "geq",
+        "は",
+        "と会う"
+      ]
+    },
+    {
+      "id": "Z5NkTvGVG",
+      "date": "2021-10-05T14:14:07.710Z",
+      "head": "nıe",
+      "body": "▯は▯の中にある／居る",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443247710,
+      "content": [
+        "nie",
+        "は",
+        "の中にある",
+        "居る"
+      ]
+    },
+    {
+      "id": "NO7yIJ_eN",
+      "date": "2021-10-05T14:14:17.251Z",
+      "head": "gao",
+      "body": "▯は▯の上にある／居る",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443257251,
+      "content": [
+        "gao",
+        "は",
+        "の上にある",
+        "居る"
+      ]
+    },
+    {
+      "id": "oioKM59GZ",
+      "date": "2021-10-05T14:15:11.754Z",
+      "head": "guq",
+      "body": "▯は▯の下にある",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443311754,
+      "content": [
+        "guq",
+        "は",
+        "の下にある"
+      ]
+    },
+    {
+      "id": "EXPOjQZdA",
+      "date": "2021-10-05T14:19:18.034Z",
+      "head": "paı",
+      "body": "▯は友達／友人；▯は▯の友達／友人",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443558034,
+      "content": [
+        "pai",
+        "は友達",
+        "友人",
+        "は",
+        "の友達",
+        "友人"
+      ]
+    },
+    {
+      "id": "VMuIdfGRy",
+      "date": "2021-10-05T14:21:57.679Z",
+      "head": "laı",
+      "body": "▯は▯を意味する文字／印／記号／象徴",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443717679,
+      "content": [
+        "lai",
+        "は",
+        "を意味する文字",
+        "印",
+        "記号",
+        "象徴"
+      ]
+    },
+    {
+      "id": "t_tlvONeb",
+      "date": "2021-10-05T14:23:10.944Z",
+      "head": "kaqsı",
+      "body": "▯は▯を観る",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443790944,
+      "content": [
+        "kaqsi",
+        "は",
+        "を観る"
+      ]
+    },
+    {
+      "id": "oabWqYVPZ",
+      "date": "2021-10-05T14:23:42.171Z",
+      "head": "geı",
+      "body": "▯は▯を着ている",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633443822171,
+      "content": [
+        "gei",
+        "は",
+        "を着ている"
+      ]
+    },
+    {
+      "id": "Pv94ojUe9",
+      "date": "2021-10-05T14:28:24.163Z",
+      "head": "joaq",
+      "body": "▯は▯の所長／親分／リーダー",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444104163,
+      "content": [
+        "joaq",
+        "は",
+        "の所長",
+        "親分",
+        "リーター"
+      ]
+    },
+    {
+      "id": "kDj53WxFG",
+      "date": "2021-10-05T14:29:00.293Z",
+      "head": "tıjao",
+      "body": "▯は▯から遠い",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444140293,
+      "content": [
+        "tijao",
+        "は",
+        "から遠い"
+      ]
+    },
+    {
+      "id": "pWIkxnbUx",
+      "date": "2021-10-05T14:30:18.076Z",
+      "head": "heq",
+      "body": "▯は▯を含んでいる；▯には▯が入っている",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444218076,
+      "content": [
+        "heq",
+        "は",
+        "を含んている",
+        "には",
+        "か入っている"
+      ]
+    },
+    {
+      "id": "ZBTEhEmqO",
+      "date": "2021-10-05T14:33:04.976Z",
+      "head": "kune",
+      "body": "▯は犬／イヌ／イヌ属（Canis）に属する動物",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444384976,
+      "content": [
+        "kune",
+        "は犬",
+        "イヌ",
+        "イヌ属",
+        "canis",
+        "に属する動物"
+      ]
+    },
+    {
+      "id": "AzzZUNV_f",
+      "date": "2021-10-05T14:33:14.230Z",
+      "head": "nıaı",
+      "body": "▯は動物",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444394230,
+      "content": [
+        "niai",
+        "は動物"
+      ]
+    },
+    {
+      "id": "2m-g087uR",
+      "date": "2021-10-05T14:33:59.952Z",
+      "head": "kaı",
+      "body": "▯は▯を▯に書く／描く",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444439952,
+      "content": [
+        "kai",
+        "は",
+        "を",
+        "に書く",
+        "描く"
+      ]
+    },
+    {
+      "id": "Z1dGjZ0ob",
+      "date": "2021-10-05T14:34:26.114Z",
+      "head": "caı",
+      "body": "▯は強い",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444466114,
+      "content": [
+        "cai",
+        "は強い"
+      ]
+    },
+    {
+      "id": "WGgpzULaw",
+      "date": "2021-10-05T14:34:36.687Z",
+      "head": "rue",
+      "body": "▯は弱い",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444476687,
+      "content": [
+        "rue",
+        "は弱い"
+      ]
+    },
+    {
+      "id": "OaLdNynM4",
+      "date": "2021-10-05T14:35:44.841Z",
+      "head": "sea",
+      "body": "▯は休む／休憩する／休息する",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444544841,
+      "content": [
+        "sea",
+        "は休む",
+        "休憩する",
+        "休息する"
+      ]
+    },
+    {
+      "id": "ZrxzLDijz",
+      "date": "2021-10-05T14:36:15.908Z",
+      "head": "buaı",
+      "body": "▯は長い",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444575908,
+      "content": [
+        "buai",
+        "は長い"
+      ]
+    },
+    {
+      "id": "KvOUvtef3",
+      "date": "2021-10-05T14:36:28.006Z",
+      "head": "gıaq",
+      "body": "▯は音楽",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444588006,
+      "content": [
+        "giaq",
+        "は音楽"
+      ]
+    },
+    {
+      "id": "BjLpPrv92",
+      "date": "2021-10-05T14:36:45.108Z",
+      "head": "muq",
+      "body": "▯は手",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444605108,
+      "content": [
+        "muq",
+        "は手"
+      ]
+    },
+    {
+      "id": "wg0uzesYs",
+      "date": "2021-10-05T14:37:22.837Z",
+      "head": "shıaq",
+      "body": "▯は脚",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444642837,
+      "content": [
+        "shiaq",
+        "は脚"
+      ]
+    },
+    {
+      "id": "GuPjCQn4K",
+      "date": "2021-10-05T14:39:19.828Z",
+      "head": "joqhua",
+      "body": "▯は頭",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444759828,
+      "content": [
+        "joqhua",
+        "は頭"
+      ]
+    },
+    {
+      "id": "q7RJ3VvBx",
+      "date": "2021-10-05T14:40:35.054Z",
+      "head": "nıq",
+      "body": "▯は新しい；▯は▯にとって新しい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444835054,
+      "content": [
+        "niq",
+        "は新しい",
+        "は",
+        "にとって新しい"
+      ]
+    },
+    {
+      "id": "s5jGzEObi",
+      "date": "2021-10-05T14:41:38.157Z",
+      "head": "loq",
+      "body": "▯は暑い／熱い／暖かい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444898157,
+      "content": [
+        "loq",
+        "は暑い",
+        "熱い",
+        "暖かい"
+      ]
+    },
+    {
+      "id": "uWrpmdWd1",
+      "date": "2021-10-05T14:41:53.690Z",
+      "head": "koa",
+      "body": "▯は寒い／冷たい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444913690,
+      "content": [
+        "koa",
+        "は寒い",
+        "冷たい"
+      ]
+    },
+    {
+      "id": "jZBHKSuVl",
+      "date": "2021-10-05T14:42:12.969Z",
+      "head": "jıaq",
+      "body": "▯は世界／世の中",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444932969,
+      "content": [
+        "jiaq",
+        "は世界",
+        "世の中"
+      ]
+    },
+    {
+      "id": "iVSpgi0YJ",
+      "date": "2021-10-05T14:42:36.980Z",
+      "head": "mıe",
+      "body": "▯は生きる／生きている",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633444956980,
+      "content": [
+        "mie",
+        "は生きる",
+        "生きている"
+      ]
+    },
+    {
+      "id": "P8asL2gcW",
+      "date": "2021-10-05T14:43:25.144Z",
+      "head": "nao",
+      "body": "▯は水／お湯",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445005144,
+      "content": [
+        "nao",
+        "は水",
+        "お湯"
+      ]
+    },
+    {
+      "id": "UT1n1NbYU",
+      "date": "2021-10-05T14:43:50.769Z",
+      "head": "neaq",
+      "body": "▯は砂",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445030769,
+      "content": [
+        "neaq",
+        "は砂"
+      ]
+    },
+    {
+      "id": "nb5DCBjKc",
+      "date": "2021-10-05T14:44:01.329Z",
+      "head": "hıaı",
+      "body": "▯は笑う",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445041329,
+      "content": [
+        "hiai",
+        "は笑う"
+      ]
+    },
+    {
+      "id": "CL6ltCvH6",
+      "date": "2021-10-05T14:44:17.539Z",
+      "head": "feı",
+      "body": "▯は怒っている",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445057539,
+      "content": [
+        "fei",
+        "は怒っている"
+      ]
+    },
+    {
+      "id": "gBQUwGLCt",
+      "date": "2021-10-05T14:44:27.056Z",
+      "head": "laq",
+      "body": "▯は音",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445067056,
+      "content": [
+        "laq",
+        "は音"
+      ]
+    },
+    {
+      "id": "iKNT_7Jjt",
+      "date": "2021-10-05T14:45:23.931Z",
+      "head": "lıqdeo",
+      "body": "▯は少女／女の子",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445123931,
+      "content": [
+        "liqdeo",
+        "は少女",
+        "女の子"
+      ]
+    },
+    {
+      "id": "xdS2CQE7N",
+      "date": "2021-10-05T14:45:46.850Z",
+      "head": "naqdeo",
+      "body": "▯は少年／男の子",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445146850,
+      "content": [
+        "naqdeo",
+        "は少年",
+        "男の子"
+      ]
+    },
+    {
+      "id": "rlMad2aoY",
+      "date": "2021-10-05T14:45:56.995Z",
+      "head": "deo",
+      "body": "▯は子ども",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445156995,
+      "content": [
+        "deo",
+        "は子とも"
+      ]
+    },
+    {
+      "id": "CQtt9Jal2",
+      "date": "2021-10-05T14:46:09.710Z",
+      "head": "koaqnaq",
+      "body": "▯は男",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445169710,
+      "content": [
+        "koaqnaq",
+        "は男"
+      ]
+    },
+    {
+      "id": "-IPKYEfgX",
+      "date": "2021-10-05T14:46:22.320Z",
+      "head": "koaqlıq",
+      "body": "▯は女",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445182320,
+      "content": [
+        "koaqliq",
+        "は女"
+      ]
+    },
+    {
+      "id": "fmZLetkD_",
+      "date": "2021-10-05T14:46:39.052Z",
+      "head": "huosı",
+      "body": "▯は▯を聴く",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445199052,
+      "content": [
+        "huosi",
+        "は",
+        "を聴く"
+      ]
+    },
+    {
+      "id": "7ShU1RZ10",
+      "date": "2021-10-05T14:48:40.662Z",
+      "head": "zuy",
+      "body": "▯は壊れている／故障している",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445320662,
+      "content": [
+        "zuy",
+        "は壊れている",
+        "故障している"
+      ]
+    },
+    {
+      "id": "sYmLcHEx9",
+      "date": "2021-10-05T14:48:56.653Z",
+      "head": "shoı",
+      "body": "▯は叫ぶ",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445336653,
+      "content": [
+        "shoi",
+        "は叫ふ"
+      ]
+    },
+    {
+      "id": "vqMcpiMEt",
+      "date": "2021-10-05T14:49:10.146Z",
+      "head": "nueq",
+      "body": "▯は肉",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445350146,
+      "content": [
+        "nueq",
+        "は肉"
+      ]
+    },
+    {
+      "id": "Ez3SRUpzl",
+      "date": "2021-10-05T14:49:30.746Z",
+      "head": "tea",
+      "body": "▯は怖がる",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445370746,
+      "content": [
+        "tea",
+        "は怖かる"
+      ]
+    },
+    {
+      "id": "1z04v3dIc",
+      "date": "2021-10-05T14:49:45.293Z",
+      "head": "buı",
+      "body": "▯は▯の外で在る",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445385293,
+      "content": [
+        "bui",
+        "は",
+        "の外て在る"
+      ]
+    },
+    {
+      "id": "sozu6kw7Z",
+      "date": "2021-10-05T14:50:02.634Z",
+      "head": "juo",
+      "body": "▯は手紙／メッセージ",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445402634,
+      "content": [
+        "juo",
+        "は手紙",
+        "メッセーシ"
+      ]
+    },
+    {
+      "id": "J5ejvOkvN",
+      "date": "2021-10-05T14:50:17.450Z",
+      "head": "gua",
+      "body": "▯は国",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445417450,
+      "content": [
+        "gua",
+        "は国"
+      ]
+    },
+    {
+      "id": "8OQ-AJJV-",
+      "date": "2021-10-05T14:50:26.748Z",
+      "head": "kaqhua",
+      "body": "▯は目",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445426748,
+      "content": [
+        "kaqhua",
+        "は目"
+      ]
+    },
+    {
+      "id": "fS2W__8pr",
+      "date": "2021-10-05T14:50:43.738Z",
+      "head": "ruq",
+      "body": "▯は雨",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445443738,
+      "content": [
+        "ruq",
+        "は雨"
+      ]
+    },
+    {
+      "id": "bL2Mi5VQP",
+      "date": "2021-10-05T14:51:36.976Z",
+      "head": "sheaq",
+      "body": "▯は▯の上に立っている",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445496976,
+      "content": [
+        "sheaq",
+        "は",
+        "の上に立っている"
+      ]
+    },
+    {
+      "id": "BC8_2AuE2",
+      "date": "2021-10-05T14:51:50.736Z",
+      "head": "koı",
+      "body": "▯は歩く",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445510736,
+      "content": [
+        "koi",
+        "は歩く"
+      ]
+    },
+    {
+      "id": "SlRNAWjnH",
+      "date": "2021-10-05T14:52:02.436Z",
+      "head": "nıu",
+      "body": "▯は植物",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445522436,
+      "content": [
+        "niu",
+        "は植物"
+      ]
+    },
+    {
+      "id": "1xyqs2gm5",
+      "date": "2021-10-05T14:52:15.225Z",
+      "head": "muao",
+      "body": "▯は木",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445535225,
+      "content": [
+        "muao",
+        "は木"
+      ]
+    },
+    {
+      "id": "cI0i5x_NT",
+      "date": "2021-10-05T14:56:16.021Z",
+      "head": "gea",
+      "body": "▯は（位置が）高い（high）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445776021,
+      "content": [
+        "gea",
+        "は",
+        "位置か",
+        "高い",
+        "high"
+      ]
+    },
+    {
+      "id": "X_Wn5qzci",
+      "date": "2021-10-05T14:58:17.565Z",
+      "head": "luq",
+      "body": "▯は静か／閑静／静粛／冷静",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445897565,
+      "content": [
+        "luq",
+        "は静か",
+        "閑静",
+        "静粛",
+        "冷静"
+      ]
+    },
+    {
+      "id": "6iBm9MG75",
+      "date": "2021-10-05T14:59:28.602Z",
+      "head": "be",
+      "body": "▯は幼児／赤ちゃん／赤ん坊",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633445968602,
+      "content": [
+        "be",
+        "は幼児",
+        "赤ちゃん",
+        "赤ん坊"
+      ]
+    },
+    {
+      "id": "LBBJCZ9re",
+      "date": "2021-10-05T15:00:07.067Z",
+      "head": "tuı",
+      "body": "▯は▯の上に座っている",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446007067,
+      "content": [
+        "tui",
+        "は",
+        "の上に座っている"
+      ]
+    },
+    {
+      "id": "V1rNALWXL",
+      "date": "2021-10-05T15:00:16.435Z",
+      "head": "suaq",
+      "body": "▯は歌う",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446016435,
+      "content": [
+        "suaq",
+        "は歌う"
+      ]
+    },
+    {
+      "id": "7yn89n1M7",
+      "date": "2021-10-05T15:00:38.650Z",
+      "head": "meı",
+      "body": "▯は山／岡",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446038650,
+      "content": [
+        "mei",
+        "は山",
+        "岡"
+      ]
+    },
+    {
+      "id": "dvg9Xk6Zz",
+      "date": "2021-10-05T15:00:52.312Z",
+      "head": "pıe",
+      "body": "▯は▯を飲む",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446052312,
+      "content": [
+        "pie",
+        "は",
+        "を飲む"
+      ]
+    },
+    {
+      "id": "EtIhuhDFV",
+      "date": "2021-10-05T15:01:41.314Z",
+      "head": "beaq",
+      "body": "▯は竿／棒",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446101314,
+      "content": [
+        "beaq",
+        "は竿",
+        "棒"
+      ]
+    },
+    {
+      "id": "IB1Yhhthj",
+      "date": "2021-10-05T15:01:59.687Z",
+      "head": "sıaı",
+      "body": "▯は血／血液",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446119687,
+      "content": [
+        "siai",
+        "は血",
+        "血液"
+      ]
+    },
+    {
+      "id": "jh6VzeDpc",
+      "date": "2021-10-05T15:02:13.456Z",
+      "head": "nuofua",
+      "body": "▯はベッド／布団",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446133456,
+      "content": [
+        "nuofua",
+        "はヘット",
+        "布団"
+      ]
+    },
+    {
+      "id": "NLOwPiDKy",
+      "date": "2021-10-05T15:03:09.015Z",
+      "head": "hoe",
+      "body": "▯は日／太陽",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446189015,
+      "content": [
+        "hoe",
+        "は日",
+        "太陽"
+      ]
+    },
+    {
+      "id": "lt6JLI_b7",
+      "date": "2021-10-05T15:04:12.768Z",
+      "head": "maı",
+      "body": "▯は▯を愛している",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446252768,
+      "content": [
+        "mai",
+        "は",
+        "を愛している"
+      ]
+    },
+    {
+      "id": "AkO1k-4lN",
+      "date": "2021-10-05T15:04:23.848Z",
+      "head": "cho",
+      "body": "▯は▯が好き",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446263848,
+      "content": [
+        "cho",
+        "は",
+        "か好き"
+      ]
+    },
+    {
+      "id": "rkkfZVeAX",
+      "date": "2021-10-05T15:04:47.477Z",
+      "head": "hoaq",
+      "body": "▯が燃える",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446287477,
+      "content": [
+        "hoaq",
+        "か燃える"
+      ]
+    },
+    {
+      "id": "dDs9fx9zj",
+      "date": "2021-10-05T15:05:25.309Z",
+      "head": "gıo",
+      "body": "▯は光",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446325309,
+      "content": [
+        "gio",
+        "は光"
+      ]
+    },
+    {
+      "id": "8wz5e-3_g",
+      "date": "2021-10-05T15:06:17.403Z",
+      "head": "seoq",
+      "body": "▯は空／天",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446377403,
+      "content": [
+        "seoq",
+        "は空",
+        "天"
+      ]
+    },
+    {
+      "id": "kvJKe9jnR",
+      "date": "2021-10-05T15:08:13.006Z",
+      "head": "rea",
+      "body": "▯は▯の境界／端／さかい",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633446493006,
+      "content": [
+        "rea",
+        "は",
+        "の境界",
+        "端",
+        "さかい"
+      ]
+    },
+    {
+      "id": "5iTHTj9od",
+      "date": "2021-10-05T16:44:57.966Z",
+      "head": "baq",
+      "body": "限定詞：「全般に…」（個物を参照せずに「種類」を示す）",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633452297966,
+      "content": [
+        "baq",
+        "限定詞",
+        "全般に",
+        "個物を参照せすに",
+        "種類",
+        "を示す"
+      ]
+    },
+    {
+      "id": "lbHAiMKXo",
+      "date": "2021-10-05T16:48:14.363Z",
+      "head": "kue",
+      "body": "▯は本／書物／文献",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633452494363,
+      "content": [
+        "kue",
+        "は本",
+        "書物",
+        "文献"
+      ]
+    },
+    {
+      "id": "oabBvxZAU",
+      "date": "2021-10-05T16:48:48.056Z",
+      "head": "kato",
+      "body": "▯は猫／ネコ",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633452528056,
+      "content": [
+        "kato",
+        "は猫",
+        "ネコ"
+      ]
+    },
+    {
+      "id": "JSBYzLELx",
+      "date": "2021-10-05T16:52:28.143Z",
+      "head": "reı",
+      "body": "▯は▯の周りにある；▯は▯を包囲する／取り囲む",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633452748143,
+      "content": [
+        "rei",
+        "は",
+        "の周りにある",
+        "は",
+        "を包囲する",
+        "取り囲む"
+      ]
+    },
+    {
+      "id": "srlN7esFK",
+      "date": "2021-10-05T16:56:01.643Z",
+      "head": "baı",
+      "body": "▯は▯を作る／建てる／組み立てる",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633452961643,
+      "content": [
+        "bai",
+        "は",
+        "を作る",
+        "建てる",
+        "組み立てる"
+      ]
+    },
+    {
+      "id": "YnIUbEOqn",
+      "date": "2021-10-05T16:58:19.958Z",
+      "head": "fıeq",
+      "body": "▯は▯を創造する／創作する／創る／発明する／創案する",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633453099958,
+      "content": [
+        "fieq",
+        "は",
+        "を創造する",
+        "創作する",
+        "創る",
+        "発明する",
+        "創案する"
+      ]
+    },
+    {
+      "id": "mgmAgHW3-",
+      "date": "2021-10-05T16:58:41.717Z",
+      "head": "faq",
+      "body": "▯は起こる",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633453121717,
+      "content": [
+        "faq",
+        "は起こる"
+      ]
+    },
+    {
+      "id": "WYAdxH15Q",
+      "date": "2021-10-05T16:59:45.596Z",
+      "head": "haq",
+      "body": "▯は食べ物／食料",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633453185596,
+      "content": [
+        "haq",
+        "は食へ物",
+        "食料"
+      ]
+    },
+    {
+      "id": "hiySf9QNt",
+      "date": "2021-10-05T17:01:49.443Z",
+      "head": "raq",
+      "body": "▯は▯と関係ある／関連する／についてのことである",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633453309443,
+      "content": [
+        "raq",
+        "は",
+        "と関係ある",
+        "関連する",
+        "についてのことてある"
+      ]
+    },
+    {
+      "id": "5FMfw6h_s",
+      "date": "2021-10-05T17:02:14.883Z",
+      "head": "daq",
+      "body": "▯は時間",
+      "user": "lynn",
+      "scope": "ja",
+      "notes": [],
+      "score": 0,
+      "relevance": -1633453334883,
+      "content": [
+        "daq",
+        "は時間"
+      ]
+    }
+  ]
+}
